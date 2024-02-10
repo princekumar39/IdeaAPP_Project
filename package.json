@@ -1,0 +1,18 @@
+{
+  "name": "ideaapp",
+  "version": "1.0.0",
+  "description": "projects on backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "IdeaAPP_Project"
+  },
+  "author": "Prince Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
